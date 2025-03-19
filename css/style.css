@@ -636,6 +636,7 @@ a:focus {
 
 .client_section .box .detail-box {
   margin-top: 20px;
+  min-height: 120px;
 }
 
 .client_section .box .detail-box h6 {
@@ -927,4 +928,8 @@ a:focus {
   .footer-sub-title{
     font-size: 10px;
   }
+  .client_section .box .detail-box {
+  /* margin-top: 20px; */
+  min-height: 200px;
+}
 }
